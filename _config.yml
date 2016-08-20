@@ -1,0 +1,14 @@
+layout_spectrum: 0.49923727684654295
+typography_spectrum: 0.3296131603419781
+color:
+  brandStrength: 0.9173500975593925
+  lightness: 0.7874897341243923
+  saturation: 0.4371870399918407
+  rhythmicContrast: 0.5642226424533874
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: P+B Test Site
