@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-31T22:36:52.881Z'
+datePublished: '2016-08-31T22:43:54.393Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T22:36:48.391Z'
+dateModified: '2016-08-31T22:43:53.467Z'
 title: ''
 publisher: {}
 description: Guitars and things. That is what I like.
-starred: false
 sourcePath: _posts/2016-08-31-guitars-and-things-that-is-what-i-like.md
+starred: false
 url: guitars-and-things-that-is-what-i-like/index.html
 _type: Article
 
