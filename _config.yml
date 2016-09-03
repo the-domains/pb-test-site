@@ -11,6 +11,8 @@ color:
     - '#FFF6E5'
     - '#FF7F66'
 layout_spectrum: 0.49923727684654295
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/adbe32a8-f0e9-4e1b-bef1-2905c06799a4.jpg
 name: The Sonic Collective
 navigation:
   - name: Our Reviewers
@@ -19,5 +21,5 @@ navigation:
   - name: Our Music
     id: 3ecf11e6-d2e4-449d-8973-5ba0f30f0ddc
     type: content
-title: The Sonic Collective
+title: Reviewing Music That Count
 description: Reviewing Classic Influential Albums
