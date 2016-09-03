@@ -12,9 +12,5 @@ color:
     - '#FF7F66'
 layout_spectrum: 0.49923727684654295
 name: The Sonic Collective
-navigation:
-  - name: About Us
-    url: about
-    type: external
 title: The Sonic Collective
 description: Reviewing Classic Influential Albums
