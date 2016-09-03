@@ -16,5 +16,8 @@ navigation:
   - name: Our Reviewers
     id: 1a97f8d4-c219-4d43-b117-ee1bf7752572
     type: content
+  - name: Our Music
+    id: 3ecf11e6-d2e4-449d-8973-5ba0f30f0ddc
+    type: content
 title: The Sonic Collective
 description: Reviewing Classic Influential Albums
