@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-08-31T22:32:38.136Z'
+datePublished: '2016-08-31T22:33:23.863Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T22:31:40.467Z'
+dateModified: '2016-08-31T22:33:23.078Z'
 title: Good man. Nixon's pro-war and pro-family.
 publisher: {}
 description: >-
   You know, I was God once. Yeah. Give a little credit to our public schools.
   Leela's gonna kill me. No! The cat shelter's on to me.
-starred: false
 sourcePath: _posts/2016-08-31-good-man-nixons-pro-war-and-pro-family.md
-_type: Blurb
+hasPage: true
+starred: false
+url: good-man-nixons-pro-war-and-pro-family/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62a5ec18-35d4-446d-abb9-7e8048b41a57.jpg)
