@@ -12,5 +12,9 @@ color:
     - '#FF7F66'
 layout_spectrum: 0.49923727684654295
 name: The Sonic Collective
+navigation:
+  - name: Our Reviewers
+    id: 1a97f8d4-c219-4d43-b117-ee1bf7752572
+    type: content
 title: The Sonic Collective
 description: Reviewing Classic Influential Albums
